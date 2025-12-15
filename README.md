@@ -1,3 +1,4 @@
+Fiz parte do desafio, desenvolvi uma lista de tarefas em que os itens podem ser adicionados, marcados como realizados, desmarcados, colocados em ordem alfabética crescente ou decrescente, excluídos ou visualizados (todos ou somente os realizados ou somente os não realizados) e pesquisados pelo nome ou parte dele, mas não consegui implantar a edição das tarefas.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
